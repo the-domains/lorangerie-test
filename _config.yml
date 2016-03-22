@@ -1,7 +1,7 @@
 name: lorangerie-test
 favicon: null
-layout_spectrum: 0.7071030996739864
-typography_spectrum: 0.9119784622453153
+layout_spectrum: 1
+typography_spectrum: 0.36663
 cta:
   domain: null
   bucket: null
