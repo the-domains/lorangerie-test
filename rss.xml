@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[lorangerie-test]]></title>
+        <description><![CDATA[lorangerie-test]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Mar 2016 21:36:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is my first draft]]></title>
+            <description><![CDATA[<article><h1>This is my first draft</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ac9cd428d4c70b5046d960eb936b50a23d7e7ab.jpg"></article>]]></description>
+            <link>undefinedthis-is-my-first-draft/index.html</link>
+            <guid isPermaLink="false">a9a72cef-eac7-4b8d-ba34-eeaa72f515ee</guid>
+            <pubDate>Tue, 22 Mar 2016 21:36:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
